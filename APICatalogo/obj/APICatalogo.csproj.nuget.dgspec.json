@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\APICatalogo\\APICatalogo\\APICatalogo\\APICatalogo.csproj": {}
+    "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\APICatalogo\\APICatalogo.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\APICatalogo\\APICatalogo\\APICatalogo\\APICatalogo.csproj": {
+    "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\APICatalogo\\APICatalogo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\APICatalogo\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
+        "projectUniqueName": "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\APICatalogo\\APICatalogo.csproj",
         "projectName": "APICatalogo",
-        "projectPath": "D:\\Projetos\\APICatalogo\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
+        "projectPath": "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\APICatalogo\\APICatalogo.csproj",
         "packagesPath": "C:\\Users\\Thiago\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\APICatalogo\\APICatalogo\\APICatalogo\\obj\\",
+        "outputPath": "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\APICatalogo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
