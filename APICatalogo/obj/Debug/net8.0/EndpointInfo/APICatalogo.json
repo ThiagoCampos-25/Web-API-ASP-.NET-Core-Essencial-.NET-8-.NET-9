@@ -432,7 +432,7 @@
           },
           "nome": {
             "maxLength": 80,
-            "minLength": 0,
+            "minLength": 5,
             "type": "string"
           },
           "descricao": {
