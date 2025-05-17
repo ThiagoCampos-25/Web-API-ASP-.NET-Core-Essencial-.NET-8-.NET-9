@@ -102,7 +102,7 @@
   {
     "ContainingType": "APICatalogo.Controllers.CategoriasController",
     "Method": "GetCategoriasProdutos",
-    "RelativePath": "Categorias/produtos ",
+    "RelativePath": "Categorias/produtos",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
