@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{974F3E62-D399-4FAC-952D-606389C9B245}|APICatalogo\\APICatalogo.csproj|d:\\projetos\\web-api-asp-.net-core-essencial-.net-8-.net-9\\apicatalogo\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{974F3E62-D399-4FAC-952D-606389C9B245}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{974F3E62-D399-4FAC-952D-606389C9B245}|APICatalogo\\APICatalogo.csproj|d:\\projetos\\web-api-asp-.net-core-essencial-.net-8-.net-9\\apicatalogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{974F3E62-D399-4FAC-952D-606389C9B245}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974F3E62-D399-4FAC-952D-606389C9B245}|APICatalogo\\APICatalogo.csproj|d:\\projetos\\web-api-asp-.net-core-essencial-.net-8-.net-9\\apicatalogo\\logging\\customerlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974F3E62-D399-4FAC-952D-606389C9B245}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\logging\\customerlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974F3E62-D399-4FAC-952D-606389C9B245}|APICatalogo\\APICatalogo.csproj|d:\\projetos\\web-api-asp-.net-core-essencial-.net-8-.net-9\\apicatalogo\\logging\\customloggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974F3E62-D399-4FAC-952D-606389C9B245}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\logging\\customloggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974F3E62-D399-4FAC-952D-606389C9B245}|APICatalogo\\APICatalogo.csproj|d:\\projetos\\web-api-asp-.net-core-essencial-.net-8-.net-9\\apicatalogo\\logging\\customloggerproviderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974F3E62-D399-4FAC-952D-606389C9B245}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\logging\\customloggerproviderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974F3E62-D399-4FAC-952D-606389C9B245}|APICatalogo\\APICatalogo.csproj|d:\\projetos\\web-api-asp-.net-core-essencial-.net-8-.net-9\\apicatalogo\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974F3E62-D399-4FAC-952D-606389C9B245}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{974F3E62-D399-4FAC-952D-606389C9B245}|APICatalogo\\APICatalogo.csproj|d:\\projetos\\web-api-asp-.net-core-essencial-.net-8-.net-9\\apicatalogo\\filter\\apiloggingfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +50,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerLogger.cs",
+              "DocumentMoniker": "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\APICatalogo\\Logging\\CustomerLogger.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Logging\\CustomerLogger.cs",
+              "ToolTip": "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\APICatalogo\\Logging\\CustomerLogger.cs",
+              "RelativeToolTip": "APICatalogo\\Logging\\CustomerLogger.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T20:09:25.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "CustomLoggerProvider.cs",
+              "DocumentMoniker": "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\APICatalogo\\Logging\\CustomLoggerProvider.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Logging\\CustomLoggerProvider.cs",
+              "ToolTip": "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\APICatalogo\\Logging\\CustomLoggerProvider.cs",
+              "RelativeToolTip": "APICatalogo\\Logging\\CustomLoggerProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T20:09:05.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomLoggerProviderConfiguration.cs",
+              "DocumentMoniker": "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\APICatalogo\\Logging\\CustomLoggerProviderConfiguration.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Logging\\CustomLoggerProviderConfiguration.cs",
+              "ToolTip": "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\APICatalogo\\Logging\\CustomLoggerProviderConfiguration.cs",
+              "RelativeToolTip": "APICatalogo\\Logging\\CustomLoggerProviderConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T20:08:27.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ApiLoggingFilter.cs",
               "DocumentMoniker": "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\APICatalogo\\Filter\\ApiLoggingFilter.cs",
               "RelativeDocumentMoniker": "APICatalogo\\Filter\\ApiLoggingFilter.cs",
@@ -51,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "CategoriasController.cs",
               "DocumentMoniker": "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\APICatalogo\\Controllers\\CategoriasController.cs",
               "RelativeDocumentMoniker": "APICatalogo\\Controllers\\CategoriasController.cs",
@@ -64,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ApiExceptionMiddlewareExtensions.cs",
               "DocumentMoniker": "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\APICatalogo\\Extensions\\ApiExceptionMiddlewareExtensions.cs",
               "RelativeDocumentMoniker": "APICatalogo\\Extensions\\ApiExceptionMiddlewareExtensions.cs",
@@ -76,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ErrorDetails.cs",
               "DocumentMoniker": "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\APICatalogo\\Models\\ErrorDetails.cs",
               "RelativeDocumentMoniker": "APICatalogo\\Models\\ErrorDetails.cs",
@@ -88,13 +139,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\APICatalogo\\Program.cs",
               "RelativeDocumentMoniker": "APICatalogo\\Program.cs",
               "ToolTip": "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\APICatalogo\\Program.cs",
               "RelativeToolTip": "APICatalogo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T19:44:09.099Z",
               "EditorCaption": ""
