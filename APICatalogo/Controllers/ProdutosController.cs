@@ -10,16 +10,17 @@ namespace APICatalogo.Controllers;
 [ApiController]
 public class ProdutosController : ControllerBase
 {
-    private readonly IRepository<Produto> _repository;
-    public ProdutosController(IProdutoRepository repository)
+    private readonly IUnitOfWorkk _unitOfWork;
+
+    public ProdutosController(IUnitOfWorkk unitOfWork)
     {
-        _repository = repository;
+        _unitOfWork = unitOfWork;
     }
 
     [HttpGet]
     public ActionResult<IEnumerable<Produto>> Get()
     {
-        var produtos = _repository.GetAll();
+        var produtos = _unitOfWork.ProdutoRepository.GetAll();
 
         if (produtos is null)
         {
@@ -31,7 +32,7 @@ public class ProdutosController : ControllerBase
     [HttpGet("{id}", Name = "ObterProduto")]
     public ActionResult<Produto> Get(int id)
     {
-        var produto = _repository.Get(x => x.ProdutoId == id);
+        var produto = _unitOfWork.ProdutoRepository.Get(x => x.ProdutoId == id);
         if (produto is null)
         {
             return NotFound("Produto não encontrado...");
@@ -45,7 +46,8 @@ public class ProdutosController : ControllerBase
         if (produto is null)
             return BadRequest();
 
-        var novoProduto = _repository.Create(produto);
+        var novoProduto = _unitOfWork.ProdutoRepository.Create(produto);
+        _unitOfWork.Commit();
 
         return new CreatedAtRouteResult("ObterProduto",
             new { id = novoProduto.ProdutoId }, novoProduto);
@@ -59,7 +61,8 @@ public class ProdutosController : ControllerBase
             return BadRequest();
         }
 
-        var produtoAtualizado = _repository.Update(produto);
+        var produtoAtualizado = _unitOfWork.ProdutoRepository.Update(produto);
+        _unitOfWork.Commit();
 
         return Ok(produtoAtualizado);
 
@@ -70,14 +73,15 @@ public class ProdutosController : ControllerBase
     [HttpDelete("{id:int}")]
     public ActionResult Delete(int id)
     {
-        var produto = _repository.Get(x=> x.ProdutoId == id);
+        var produto = _unitOfWork.ProdutoRepository.Get(x=> x.ProdutoId == id);
 
         if (produto is null)
         {
             return NotFound("Produto não localizado...");
         }
 
-        var produtoDeletado = _repository.Delete(produto);
+        var produtoDeletado = _unitOfWork.ProdutoRepository.Delete(produto);
+        _unitOfWork.Commit();
 
         return Ok(produtoDeletado);
     }
