@@ -226,4 +226,16 @@ D:\Projetos\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\APICatalogo\obj\Debug\
 D:\Projetos\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\APICatalogo\obj\Debug\net8.0\APICatalogo.pdb
 D:\Projetos\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\APICatalogo\obj\Debug\net8.0\APICatalogo.genruntimeconfig.cache
 D:\Projetos\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\APICatalogo\obj\Debug\net8.0\ref\APICatalogo.dll
-D:\Projetos\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\APICatalogo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Projetos\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\APICatalogo\bin\Debug\net8.0\AutoMapper.dll
+D:\Projetos\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\APICatalogo\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Projetos\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\APICatalogo\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projetos\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\APICatalogo\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Projetos\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\APICatalogo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projetos\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\APICatalogo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projetos\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\APICatalogo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Projetos\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\APICatalogo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projetos\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\APICatalogo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projetos\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\APICatalogo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projetos\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\APICatalogo\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Projetos\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\APICatalogo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projetos\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\APICatalogo\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll

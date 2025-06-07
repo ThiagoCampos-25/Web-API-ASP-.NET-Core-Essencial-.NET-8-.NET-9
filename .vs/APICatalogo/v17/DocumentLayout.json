@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{974F3E62-D399-4FAC-952D-606389C9B245}|APICatalogo\\APICatalogo.csproj|d:\\projetos\\web-api-asp-.net-core-essencial-.net-8-.net-9\\apicatalogo\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{974F3E62-D399-4FAC-952D-606389C9B245}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{974F3E62-D399-4FAC-952D-606389C9B245}|APICatalogo\\APICatalogo.csproj|d:\\projetos\\web-api-asp-.net-core-essencial-.net-8-.net-9\\apicatalogo\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{974F3E62-D399-4FAC-952D-606389C9B245}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{974F3E62-D399-4FAC-952D-606389C9B245}|APICatalogo\\APICatalogo.csproj|d:\\projetos\\web-api-asp-.net-core-essencial-.net-8-.net-9\\apicatalogo\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{974F3E62-D399-4FAC-952D-606389C9B245}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{974F3E62-D399-4FAC-952D-606389C9B245}|APICatalogo\\APICatalogo.csproj|d:\\projetos\\web-api-asp-.net-core-essencial-.net-8-.net-9\\apicatalogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974F3E62-D399-4FAC-952D-606389C9B245}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,40 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CategoriasController.cs",
-              "DocumentMoniker": "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\APICatalogo\\Controllers\\CategoriasController.cs",
-              "RelativeDocumentMoniker": "APICatalogo\\Controllers\\CategoriasController.cs",
-              "ToolTip": "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\APICatalogo\\Controllers\\CategoriasController.cs",
-              "RelativeToolTip": "APICatalogo\\Controllers\\CategoriasController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\APICatalogo\\Program.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Program.cs",
+              "ToolTip": "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\APICatalogo\\Program.cs",
+              "RelativeToolTip": "APICatalogo\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T16:07:52.533Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\APICatalogo\\Models\\Categoria.cs",
-              "RelativeDocumentMoniker": "APICatalogo\\Models\\Categoria.cs",
-              "ToolTip": "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\APICatalogo\\Models\\Categoria.cs",
-              "RelativeToolTip": "APICatalogo\\Models\\Categoria.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T16:06:48.142Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CategoriaDTO.cs",
-              "DocumentMoniker": "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\APICatalogo\\DTOs\\CategoriaDTO.cs",
-              "RelativeDocumentMoniker": "APICatalogo\\DTOs\\CategoriaDTO.cs",
-              "ToolTip": "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\APICatalogo\\DTOs\\CategoriaDTO.cs",
-              "RelativeToolTip": "APICatalogo\\DTOs\\CategoriaDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T16:00:32.229Z",
+              "WhenOpened": "2025-06-07T18:43:09.702Z",
               "EditorCaption": ""
             }
           ]

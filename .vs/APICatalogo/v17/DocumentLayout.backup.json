@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{974F3E62-D399-4FAC-952D-606389C9B245}|APICatalogo\\APICatalogo.csproj|d:\\projetos\\web-api-asp-.net-core-essencial-.net-8-.net-9\\apicatalogo\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{974F3E62-D399-4FAC-952D-606389C9B245}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{974F3E62-D399-4FAC-952D-606389C9B245}|APICatalogo\\APICatalogo.csproj|d:\\projetos\\web-api-asp-.net-core-essencial-.net-8-.net-9\\apicatalogo\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{974F3E62-D399-4FAC-952D-606389C9B245}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{974F3E62-D399-4FAC-952D-606389C9B245}|APICatalogo\\APICatalogo.csproj|d:\\projetos\\web-api-asp-.net-core-essencial-.net-8-.net-9\\apicatalogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{974F3E62-D399-4FAC-952D-606389C9B245}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{974F3E62-D399-4FAC-952D-606389C9B245}|APICatalogo\\APICatalogo.csproj|d:\\projetos\\web-api-asp-.net-core-essencial-.net-8-.net-9\\apicatalogo\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{974F3E62-D399-4FAC-952D-606389C9B245}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{974F3E62-D399-4FAC-952D-606389C9B245}|APICatalogo\\APICatalogo.csproj|d:\\projetos\\web-api-asp-.net-core-essencial-.net-8-.net-9\\apicatalogo\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974F3E62-D399-4FAC-952D-606389C9B245}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,63 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProdutosController.cs",
-              "DocumentMoniker": "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\APICatalogo\\Controllers\\ProdutosController.cs",
-              "RelativeDocumentMoniker": "APICatalogo\\Controllers\\ProdutosController.cs",
-              "ToolTip": "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\APICatalogo\\Controllers\\ProdutosController.cs",
-              "RelativeToolTip": "APICatalogo\\Controllers\\ProdutosController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAIwFcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T15:44:53.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CategoriasController.cs",
-              "DocumentMoniker": "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\APICatalogo\\Controllers\\CategoriasController.cs",
-              "RelativeDocumentMoniker": "APICatalogo\\Controllers\\CategoriasController.cs",
-              "ToolTip": "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\APICatalogo\\Controllers\\CategoriasController.cs",
-              "RelativeToolTip": "APICatalogo\\Controllers\\CategoriasController.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAIwGIAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T15:40:34.899Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\APICatalogo\\Program.cs",
-              "RelativeDocumentMoniker": "APICatalogo\\Program.cs",
-              "ToolTip": "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\APICatalogo\\Program.cs",
-              "RelativeToolTip": "APICatalogo\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T15:38:24.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\APICatalogo\\Repositories\\Repository.cs",
-              "RelativeDocumentMoniker": "APICatalogo\\Repositories\\Repository.cs",
-              "ToolTip": "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\APICatalogo\\Repositories\\Repository.cs",
-              "RelativeToolTip": "APICatalogo\\Repositories\\Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T15:36:07.103Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\APICatalogo\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Context\\AppDbContext.cs",
+              "ToolTip": "D:\\Projetos\\Web-API-ASP-.NET-Core-Essencial-.NET-8-.NET-9\\APICatalogo\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "APICatalogo\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T18:25:48.891Z",
+              "EditorCaption": ""
             }
           ]
         }
